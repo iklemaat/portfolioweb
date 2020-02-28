@@ -1,0 +1,203 @@
+@font-face{
+    font-family: Josefina;
+    src: url("../fonts/Josefin_Sans/JosefinSans-Light.ttf")
+}
+
+ 
+
+body{
+    font-family: Josefina;
+};
+
+
+
+.test {
+    display: inline-flexbox;
+}
+
+.navbar{
+    height: 25px;
+    width: 100vw;
+    display: flex;
+    
+    justify-content: flex-end;
+
+} 
+.navbar-expand-lg{
+    width: 100vw;
+    display: flex;
+    justify-content: flex-end;
+} 
+.navbar-light{
+    width: 100vw;
+    display: flex;
+    justify-content: flex-end;
+} 
+.bg-light{
+    width: 100vw;
+    display: flex;
+    
+    justify-content: flex-end;
+} 
+
+.test{
+    width: 100vw;
+    
+    display: flex;
+    justify-content: flex-end;
+}
+.images{
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+
+}
+h1{
+    margin-left: 83px;
+
+}
+h2{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 30%;
+    border-bottom: 3px solid yellow;
+}
+
+.logo-bar{
+    display: flex;
+    align-items: center;
+} 
+
+.logo-img {
+    width: 150px;
+    height: 80px;
+    padding: 10px;
+
+}
+
+.postit{
+    width: 240px;
+    height:  207px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.postit-pink {
+    background-image: url("../images/postit-rosa.png");
+}
+.postit-yellow{
+    background-image: url("../images/postit\ amarillo.png");
+}
+
+.postit-blue{
+    background-image: url("../images/postit\ azul.png");
+}
+.postit2{
+    
+
+    width: 240px;
+    height:  207px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.postit3{
+
+    width: 240px;
+    height:  207px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.postit4{
+
+    width: 240px;
+    height:  207px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.postit5{
+    
+    width: 240px;
+    height:  207px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.postit6{
+
+    width: 240px;
+    height:  207px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.postit7{
+
+    width: 240px;
+    height:  207px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.postit8{
+
+    width: 240px;
+    height:  207px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.postit9{
+
+    width: 240px;
+    height:  207px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.postit10{
+    width: 240px;
+    height:  207px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.postit11{
+    width: 240px;
+    height:  207px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.fila{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+
+
+}
+
+.medio{
+    display: flex;
+    position: relative;
+position: relative;
+
+
+
+}
